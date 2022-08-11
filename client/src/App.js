@@ -1,7 +1,6 @@
 import React from "react";
 import { useSelector } from "react-redux";
 import { Route, Routes } from "react-router-dom";
-import "./App.css";
 import Header from "./components/Header";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
