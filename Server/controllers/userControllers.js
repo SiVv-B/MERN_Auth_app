@@ -163,4 +163,4 @@ const logout = (req, res, next) => {
   
 
 
-module.exports = { signup, login, verifyToken, getUser,refreshToken, logout }
+module.exports = { signup, login, verifyToken, getUser,refreshToken,logout }
